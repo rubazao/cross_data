@@ -5,26 +5,49 @@ import json
 
 class OpenSpider(scrapy.Spider):
     name = 'open'
-    #allowed_domains = ['games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0']
-    #start_urls = ['https://games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0&division=1&scaled=0&sort=0']
+    # allowed_domains = ['games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0']
+    # start_urls = ['https://games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0&division=1&scaled=0&sort=0']
 
     def start_requests(self):
         yield scrapy.Request(
-            url='https://games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0&division=1&scaled=0&sort=0',
+            url='https://games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0&division=2&scaled=0&sort=0&page=1',
             callback=self.parse_athlete,
             meta={
-                'current_page': 1,
-                'last_page': 2678
+                'current_page': 1
             }
         )
-
+            
     def parse_athlete(self, response):
         data = json.loads(response.body)
-        athletes = data.get("leaderboardRows")[0]
-        for athlete in athletes.get('entrant'):
-            name = athlete.get('competitorName')
+        #last_page = data.get('pagination').get('totalPages')
+        athletes = data.get("leaderboardRows")
+        for athlete in athletes:
+            name = athlete.get('entrant').get('competitorName')
+            sex = athlete.get('entrant').get("gender")
+            country_code = athlete.get('entrant').get("countryOfOriginCode")
+            country = athlete.get('entrant').get("countryOfOriginName")
+            affiliate_name = athlete.get('entrant').get("affiliateName")
+            age = athlete.get('entrant').get("age")
+            height = athlete.get('entrant').get("height")
+            weight = athlete.get('entrant').get("weight")
 
             yield {
-            	'name': name
+                'name': name,
+                'sex': sex,
+                'country_cod)': country_code,
+                'country': country,
+                'affiliate_name': affiliate_name,
+                'age': age,
+                'height': height,
+                'weight': weight
             }
-            
+        last_page = 10
+        current_page = response.request.meta['current_page'] + 1 
+        while last_page > current_page:
+        	yield scrapy.Request(
+	            url=f'https://games.crossfit.com/competitions/api/v1/competitions/open/2020/leaderboards?view=0&division=2&scaled=0&sort=0&page={current_page}',
+	            callback=self.parse_athlete,
+	            meta={
+	                'current_page': current_page
+	            }
+	        )
