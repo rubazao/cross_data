@@ -1,0 +1,501 @@
+name,sex,country_cod),country,affiliate_name,age,height,weight,countryChampion,overallRank,overallScore
+Ragnheiður Sara Sigmundsdottir,F,IS,Iceland,Simmagym CrossFit,27,173 cm,69 kg,True,1,24
+Annie Thorisdottir,F,IS,Iceland,CrossFit Reykjavík,30,170 cm,152 lb,False,2,39
+Kristin Holte,F,NO,Norway,CrossFit Oslo,34,162 cm,59 kg,True,3,55
+Tia-Clair Toomey,F,AU,Australia,CrossFit Mayhem,26,163 cm,58 kg,True,4,56
+Jamie Greene,F,NZ,New Zealand,CrossFit Yas,29,163 cm,135 lb,True,5,65
+Kari Pearce,F,US,United States,CrossFit Spot,31,63 in,139 lb,True,6,71
+Emma McQuaid,F,IE,Ireland,CrossFit Berserk,30,165 cm,64 kg,True,7,84
+Carol-Ann Reason-Thibault,F,CA,Canada,CrossFit 514,32,165 cm,145 lb,True,8,103
+Karin Freyová,F,SK,Slovakia,CrossFit Alpha Prime,25,170 cm,73 kg,True,9,143
+Laura Horvath,F,HU,Hungary,CrossFit BBros,23,169 cm,69 kg,True,10,147
+Brooke Wells,F,US,United States,CrossFit T-Town,25,66 in,150 lb,False,11,148
+Kara Saunders,F,AU,Australia,CrossFit Kova,30,162 cm,158 lb,False,12,153
+Camilla Salomonsson Hellman,F,SE,Sweden,CrossFit Nordic,29,165 cm,69 kg,True,13,171
+Kristi Eramo O'Connell,F,US,United States,CrossFit Polaris,31,62 in,128 lb,False,14,176
+Kendall Vincelette,F,US,United States,CrossFit St Louis Park,26,62 in,127 lb,False,15,177
+Andrea Nisler,F,US,United States,Gopher State CrossFit,31,66 in,154 lb,False,15,177
+Gabriela Migała,F,PL,Poland,CrossFit 72D,21,170 cm,72 kg,True,17,193
+Dani Speegle,F,US,United States,SUBU CrossFit,26,66 in,168 lb,False,18,211
+Kristine Best,F,US,United States,CrossFit Undivided,30,63 in,138 lb,False,19,218
+Katelin Van Zyl,F,AU,Australia,CrossFit Urban Energy,28,171 cm,68 kg,False,20,253
+Alanna Fisk,F,US,United States,CrossFit eXalted,28,59 in,125 lb,False,21,268
+Brooke Haas,F,US,United States,Crucible CrossFit,31,63 in,152 lb,False,22,273
+Katrin Tanja Davidsdottir,F,IS,Iceland,CrossFit New England,27,169 cm,150 lb,False,23,285
+Amanda Barnhart,F,US,United States,Centerville CrossFit,28,67 in,155 lb,False,24,299
+Sabrina Caron,F,FR,France,CrossFit Hanuman,28,161 cm,58 kg,True,24,299
+Carolyne Prevost,F,CA,Canada,CrossFit Colosseum,30,63 in,144 lb,False,26,307
+Manon Lesur,F,FR,France,CrossFit Pro1,29,163 cm,145 lb,False,27,319
+Melina Rodriguez,F,AR,Argentina,,24,156 cm,138 lb,True,28,331
+Emma Chapman,F,NZ,New Zealand,Rich City CrossFit,32,62 in,130 lb,False,29,341
+Taylor Williamson,F,US,United States,CrossFit OC3,26,69 in,160 lb,False,30,357
+Meg Reardon,F,US,United States,CrossFit Queens,28,66 in,150 lb,False,31,384
+Haley Adams,F,US,United States,CrossFit Mayhem,19,66 in,143 lb,False,32,395
+Emma Tall,F,SE,Sweden,CrossFit Kungsholmen,28,168 cm,68 kg,False,33,407
+Sara Alicia Fernandez Costas,F,ES,Spain,CrossFit Norte Redondela,30,158 cm,64 kg,True,34,412
+MaryKay Dreisilker,F,US,United States,South Loop CrossFit,30,63 in,142 lb,False,35,425
+Sasha Nievas,F,AR,Argentina,,22,156 cm,59 kg,False,36,432
+Danielle Brandon,F,US,United States,CrossFit Envy,24,170 cm,150 lb,False,36,432
+Madeline Sturt,F,AU,Australia,CrossFit Urge,23,158 cm,62 kg,False,38,447
+Larissa Cunha,F,BR,Brazil,Cavaleiros CrossFit,29,153 cm,62 kg,True,39,463
+Rachel Garibay,F,US,United States,CrossFit 915,28,5 in,130 lb,False,40,472
+Alexis Johnson,F,US,United States,Gopher State CrossFit,29,62 in,140 lb,False,40,472
+Matilde Garnes,F,NO,Norway,CrossFit Maxpuls,24,174 cm,66 kg,False,42,478
+Jaime Goodwin,F,NZ,New Zealand,CrossFit Melbourne,27,156 cm,57 kg,False,43,482
+Alessandra Pichelli,F,IT,Italy,Diablo CrossFit,34,66 in,155 lb,True,44,486
+Bethany Shadburne,F,US,United States,Streamline CrossFit,26,64 in,145 lb,False,45,501
+Stephanie Chung,F,US,United States,CrossFit Invictus Back Bay,28,65 in,150 lb,False,46,512
+Christine Kolenbrander,F,US,United States,CrossFit 417,28,66 in,151 lb,False,47,517
+Emilia Leppanen,F,FI,Finland,CrossFit Kreis 9,33,165 cm,150 lb,True,48,521
+Jimena Delamer,F,AR,Argentina,CrossFit Tuluka Nuñez,38,164 cm,63 kg,False,49,534
+Olivia Sulek,F,US,United States,ESF CrossFit,16,65 in,145 lb,False,50,557
+Rebecca Voigt Miller,F,US,United States,CrossFit Training Yard,39,69 in,152 lb,False,51,564
+Chyna Cho,F,US,United States,Good For You CrossFit,33,68 in,146 lb,False,51,564
+Tasia Percevecz,F,US,United States,CrossFit Mayhem,29,65 in,160 lb,False,53,568
+Emelie Lundberg,F,SE,Sweden,CrossFit Borgen,30,161 cm,61 kg,False,54,576
+Paige Semenza,F,US,United States,CrossFit Vertex,28,63 in,143 lb,False,55,577
+Alexys D'Tiole,F,US,United States,CrossFit EGA,29,68 in,152 lb,False,56,580
+Taylor Streid,F,US,United States,Blues City CrossFit,29,66 in,140 lb,False,57,585
+Jessica Coughlan,F,AU,Australia,CrossFit NorWest,31,166 cm,145 lb,False,58,599
+Harriet Roberts,F,NZ,New Zealand,CrossFit Athletic,28,171 cm,149 lb,False,59,601
+Kelly Stone,F,US,United States,CrossFit Omnia,29,65 in,150 lb,False,60,617
+Paige Henry,F,US,United States,CrossFit South Bay,30,64 in,145 lb,False,61,618
+Thuridur Erla Helgadottir,F,IS,Iceland,CrossFit Zug,28,164 cm,59 kg,False,62,629
+Alison Stall,F,US,United States,CrossFit Electric City,32,67 in,150 lb,False,63,641
+Melissa Doll,F,US,United States,CrossFit Summa,27,69 in,173 lb,False,64,663
+Alethea Boon,F,NZ,New Zealand,CrossFit Active,36,,,False,65,691
+Manon Angonese,F,BE,Belgium,,27,163 cm,66 kg,True,65,691
+Kelley Jackson,F,US,United States,CrossFit Gambit,36,62 in,125 lb,False,67,712
+Anastasiya Marino,F,RU,Russian Federation,CrossFit 201,34,67 in,145 lb,False,67,712
+Caroline Conners,F,US,United States,CrossFit MF,27,61 in,133 lb,False,69,714
+Tammi Robinson,F,ZA,South Africa,CrossFit CFPT,27,173 cm,71 kg,True,70,728
+Elena Carratala Sanahuja,F,ES,Spain,CrossFit 4 Friends,26,,,False,71,740
+Charlotte Spence,F,GB,United Kingdom,CrossFit Llanishen,33,60 in,66 kg,False,72,743
+Julie Hougård,F,DK,Denmark,Lofteriet CrossFit,28,172 cm,68 kg,True,73,744
+Alex Parker,F,CA,Canada,CrossFit Sunalta,30,66 in,142 lb,False,74,745
+Megan Lovegrove,F,GB,United Kingdom,CrossFit Tanjong Pagar,31,158 cm,134 lb,True,75,748
+Ekaterina Makarova,F,RU,Russian Federation,CrossFit Tirus,27,175 cm,71 kg,True,75,748
+Caroline Dardini,F,US,United States,CrossFit 215,28,61 in,124 lb,False,77,753
+Tayla Howe,F,GB,United Kingdom,CrossFit SA1,23,165 cm,75 kg,False,78,762
+Feeroozeh Saghafi,F,US,United States,CrossFit Mentality,25,62 in,127 lb,False,79,768
+Emma Cary,F,US,United States,Perform Overcome Excel CrossFit,16,64 in,125 lb,False,80,789
+Brenda Castro,F,MX,Mexico,CrossFit Tigran,31,64 in,138 lb,True,81,794
+Breona Evans,F,US,United States,CrossFit Identity,29,61 in,125 lb,False,82,807
+Tori Dyson,F,US,United States,CrossFit New England,25,,,False,83,812
+Carole Castellani,F,FR,France,CrossFit Elafi,31,170 cm,69 kg,False,83,812
+Louise Wickström,F,SE,Sweden,CrossFit 4 Fun,30,161 cm,68 kg,False,85,815
+Emily Tanner,F,US,United States,CrossFit Revoke,31,67 in,160 lb,False,86,818
+Karine Shrum,F,CA,Canada,CrossFit Wolvish,31,172 cm,152 lb,False,87,828
+Caileigh McDade,F,CA,Canada,CrossFit LifeTree,31,63 in,135 lb,False,88,862
+Nicole Gibson-Burke,F,US,United States,CrossFit South Bay,27,63 in,125 lb,False,89,894
+Hanna Venemyr,F,NO,Norway,InnerLimit CrossFit,28,172 cm,,False,90,904
+Anastasiya Ganina,F,RU,Russian Federation,Bunker D-6 CrossFit,35,170 cm,69 kg,False,91,908
+Laura Clifton,F,NZ,New Zealand,CrossFit Response,25,158 cm,,False,91,908
+Mia Hesketh,F,SE,Sweden,CrossFit Alioth,30,168 cm,68 kg,False,93,927
+Sona Karaskova,F,CZ,Czech Republic,CrossFit With Us,32,168 cm,72 kg,True,94,930
+Ariadna Argoitia,F,AR,Argentina,,38,,121 lb,False,95,932
+Alison Scudds,F,US,United States,NorCal CrossFit Redwood City,27,63 in,135 lb,False,96,935
+Andrea Solberg,F,NO,Norway,InnerLimit CrossFit,24,163 cm,130 lb,False,97,948
+Leah Irons,F,US,United States,CrossFit Ammo,28,64 in,145 lb,False,98,954
+Bailey Meraviglia,F,US,United States,Stroud CrossFit,29,63 in,140 lb,False,99,955
+Christina Seeley,F,CA,Canada,CrossFit Taranis,30,164 cm,143 lb,False,100,959
+Taylor Rector,F,US,United States,CrossFit Nixa,27,64 in,150 lb,False,101,995
+Evie Hollis,F,GB,United Kingdom,CrossFit JST,23,158 cm,145 lb,False,102,1011
+Christee Bishop,F,AU,Australia,CrossFit 4740,29,158 cm,60 kg,False,103,1023
+Sapphire Goddard,F,GB,United Kingdom,,23,,69 kg,False,104,1026
+Antonelli Nicole,F,BR,Brazil,CrossFit Imbativel,34,153 cm,134 lb,False,105,1028
+Laurie Pfleiderer,F,CA,Canada,L'usine CrossFit Taschereau,30,157 cm,136 lb,False,106,1070
+Manon Saint-Maxent,F,FR,France,CrossFit Initium,25,164 cm,54 kg,False,107,1099
+Kaitlyn Kassis,F,US,United States,CrossFit Invictus Sorrento Valley,25,67 in,140 lb,False,108,1135
+Faith Ferguson,F,US,United States,CrossFit Maven,19,63 in,150 lb,False,109,1145
+Emily Rolfe,F,CA,Canada,Surrey CrossFit,31,170 cm,150 lb,False,110,1149
+Marnie Sykes,F,NZ,New Zealand,CrossFit Korra,27,,,False,110,1149
+Amy Morton,F,CA,Canada,Ocean State CrossFit,32,163 cm,154 lb,False,112,1153
+Jennifer Smith,F,US,United States,CrossFit Maximus,34,66 in,140 lb,False,113,1154
+Kristen Turner,F,CA,Canada,CrossFit Red Leaf,28,64 in,128 lb,False,114,1168
+Alizee Andreani,F,FR,France,CrossFit Happy Hearts,32,153 cm,53 kg,False,115,1171
+Ashley Shaeffer,F,US,United States,,35,64 in,135 lb,False,116,1174
+Sanna Venäläinen,F,FI,Finland,CrossFit Vantaa,29,164 cm,62 kg,False,117,1180
+Hilary Steele,F,US,United States,CrossFit Kailua,30,58 in,120 lb,False,118,1181
+Hanna Karlsson,F,SE,Sweden,CrossFit 162 West,27,176 cm,80 kg,False,119,1182
+Anna Donauer,F,AT,Austria,CrossFit WN,30,166 cm,60 kg,True,120,1188
+Madeline Shelling,F,NZ,New Zealand,CrossFit Korra,26,165 cm,68 kg,False,121,1194
+Mariana Fedorenko,F,UA,Ukraine,Grand CrossFit,26,168 cm,60 kg,True,122,1195
+Elizabeth Bradley,F,US,United States,CrossFit Breaking Boundaries,24,62 in,140 lb,False,123,1196
+Marisa Flowers,F,US,United States,CrossFit Annihilation,29,58 in,108 lb,False,124,1200
+Hanne Short,F,NO,Norway,InnerLimit CrossFit,32,170 cm,,False,125,1206
+Ahnna Knepper,F,US,United States,CrossFit Acceleration,28,63 in,134 lb,False,126,1208
+Katlin Isaacs,F,US,United States,CrossFit Cornelius,26,59 in,127 lb,False,127,1222
+Ashleigh Wosny,F,US,United States,Reebok CrossFit Medfield,22,67 in,147 lb,False,128,1230
+Sarah Viets,F,US,United States,SinCity CrossFit,30,70 in,165 lb,False,129,1236
+Tommie Deprima,F,US,United States,CrossFit Hype,33,63 in,130 lb,False,130,1259
+Gemma Root,F,NZ,New Zealand,CrossFit Trailblazer,34,67 in,135 lb,False,130,1259
+Marie-Pier Bonneau,F,CA,Canada,CrossFit St-Jean,20,162 cm,59 kg,False,132,1263
+Antea Longo,F,IT,Italy,CrossFit FFA,32,160 cm,60 kg,False,133,1268
+Samantha Briggs,F,GB,United Kingdom,CrossFit Black Five,38,170 cm,135 lb,False,134,1270
+Ana C. Caldas,F,PT,Portugal,CrossFit Tempo,42,69 in,185 lb,True,135,1278
+Paige Powers,F,US,United States,Barbarian CrossFit,17,63 in,151 lb,False,136,1286
+Kelly Baker,F,US,United States,CrossFit Iron in the Fire,28,64 in,145 lb,False,137,1294
+Rebecka Vitesson,F,SE,Sweden,CrossFit Butcher's Lab,26,173 cm,65 kg,False,138,1310
+Cecilia Ramirez Villamil,F,MX,Mexico,Reebok CrossFit Plaza Condesa,31,163 cm,150 lb,False,139,1321
+Luiza Dias,F,BR,Brazil,,28,151 cm,56 kg,False,140,1330
+Kelsey Kiel,F,US,United States,CrossFit Invictus Back Bay,29,67 in,175 lb,False,141,1337
+Carleen Mathews,F,US,United States,CrossFit Saint Helens,36,62 in,137 lb,False,142,1346
+Kristin Miller,F,US,United States,CrossFit Mayhem,32,64 in,135 lb,False,143,1352
+Nikki Matarazzo,F,IT,Italy,CrossFit Aurora Central,29,152 cm,134 lb,False,144,1359
+Anita Pravatti,F,BR,Brazil,MUVe CrossFit Jundiaí,34,174 cm,160 lb,False,145,1363
+Rebecca Fuselier,F,US,United States,CrossFit Bolt,20,62 in,125 lb,False,146,1380
+Oddrún Eik Gylfadottir,F,IS,Iceland,CrossFit EHOH,31,163 cm,128 lb,False,147,1381
+Chely Galvan,F,US,United States,Ballistic CrossFit,30,65 in,135 lb,False,148,1383
+Susana Etto,F,BR,Brazil,Etto CrossFit,36,155 cm,65 kg,False,149,1389
+Janine Shillington,F,CA,Canada,CrossFit Vo2 Max,37,66 in,160 lb,False,150,1412
+Christina Agerbeck,F,DK,Denmark,CrossFit Butcher's Lab,29,161 cm,136 lb,False,151,1413
+Rita García,F,ES,Spain,Sweet Death CrossFit,32,157 cm,125 lb,False,152,1424
+Sydney Michalyshen,F,CA,Canada,CrossFit Roborean,20,168 cm,153 lb,False,153,1430
+Nicole Chovan,F,US,United States,CrossFit Progression,30,65 in,142 lb,False,154,1432
+Sandra Hamilton,F,CA,Canada,CrossFit East Woodbridge,31,164 cm,158 lb,False,155,1434
+Valentina Rangel,F,CO,Colombia,Iruka CrossFit,22,163 cm,63 kg,True,156,1446
+Laura Gonzalez-Marin,F,VE,Venezuela,CrossFit Soul Miami,26,67 in,148 lb,False,157,1453
+Ashley Werner,F,CA,Canada,CrossFit Conquer Caledonia,33,63 in,145 lb,False,158,1457
+Anna Tobias,F,US,United States,T2 CrossFit,37,167 cm,143 lb,False,159,1464
+Ehea Schuerch,F,US,United States,Black Goat CrossFit,31,67 in,158 lb,False,160,1466
+Joey Kimdon,F,US,United States,CrossFit Train 97333,42,61 in,125 lb,False,161,1467
+Alexsandra Buzunova,F,RU,Russian Federation,CrossFit Sprut,26,,,False,162,1481
+Jessi Harper,F,US,United States,CrossFit R.A.W.,24,66 in,142 lb,False,163,1489
+Tammy Wildgoose,F,US,United States,Shockoe Bottom CrossFit,34,63 in,140 lb,False,164,1511
+Josie Hamming,F,US,United States,CrossFit Westchase,25,64 in,140 lb,False,165,1513
+Hayley Murillo,F,US,United States,CrossFit Horsepower,33,69 in,168 lb,False,166,1525
+Megan O'Connor,F,US,United States,CrossFit Envy,35,65 in,145 lb,False,166,1525
+Frederikke Frandsen,F,DK,Denmark,CrossFit Butcher's Lab,29,158 cm,61 kg,False,168,1528
+Megan O'Donnell,F,US,United States,CrossFit Ridge Ave,31,64 in,150 lb,False,169,1529
+Chelsey Hughes,F,US,United States,Brick CrossFit Grand Central Station,34,65 in,135 lb,False,170,1532
+Evans Cyntia,F,AR,Argentina,,30,,,False,171,1534
+Lauren Suever,F,US,United States,Decorum CrossFit,29,67 in,146 lb,False,172,1551
+Deyanira Jimenez,F,MX,Mexico,,33,152 cm,60 kg,False,173,1555
+Silvia Garcia Izquierdo,F,ES,Spain,Red Grizzly CrossFit,26,165 cm,61 kg,False,174,1557
+Emma Ferreira,F,US,United States,CrossFit Milford,25,68 in,166 lb,False,175,1558
+Bridget Erickson,F,US,United States,CrossFit Carbon,33,61 in,135 lb,False,176,1561
+Hope Cicero,F,US,United States,CrossFit Billings,37,61 in,135 lb,False,177,1569
+Yuko Sakuyama,F,JP,Japan,Reebok CrossFit Roppongi,33,152 cm,125 lb,True,178,1573
+Stephanie Schabl,F,AT,Austria,CrossFit WN,30,160 cm,132 lb,False,179,1576
+Colleen Lehane,F,US,United States,Crucible CrossFit,34,62 in,135 lb,False,180,1586
+Carrie Tobias,F,RO,Romania,Man Made CrossFit,30,64 in,135 lb,True,181,1588
+Jolene Quirke,F,US,United States,CrossFit SEO,36,60 in,120 lb,False,182,1594
+Mikaela Norman,F,SE,Sweden,CrossFit Nordic,27,179 cm,68 kg,False,183,1606
+Maddy Harris,F,GB,United Kingdom,CrossFit Aylesbury,27,65 in,64 kg,False,184,1608
+Erica Folo,F,CA,Canada,CrossFit Connection,19,62 in,132 lb,False,185,1609
+Delaina Snider,F,CA,Canada,Fort to Fort CrossFit,39,66 in,154 lb,False,186,1613
+Carys Webster,F,GB,United Kingdom,CrossFit 1971,29,,,False,187,1618
+Briana Gongloff,F,US,United States,CrossFit R.A.W.,29,64 in,158 lb,False,188,1620
+Amanda Hardeman,F,US,United States,Left Coast CrossFit,31,67 in,150 lb,False,189,1624
+Laken Watt,F,AU,Australia,CrossFit 129,29,157 cm,60 kg,False,190,1629
+Meredith Swindle,F,US,United States,Coyote CrossFit,28,68 in,155 lb,False,191,1648
+Victoria Campos,F,BR,Brazil,CrossFit Asphodel,27,161 cm,134 lb,False,192,1652
+Andreia Pinheiro,F,BR,Brazil,BSB CrossFit,37,170 cm,72 kg,False,193,1655
+Lea Schmidt,F,CH,Switzerland,CrossFit Fibonacci,28,162 cm,59 kg,False,193,1655
+Zoe Warren,F,US,United States,CrossFit Sanitas,21,61 in,120 lb,False,195,1661
+Jenn Ryan,F,US,United States,CrossFit Invictus,40,62 in,128 lb,False,196,1668
+Kirsty Oliver,F,GB,United Kingdom,White Cliffs CrossFit,31,163 cm,145 lb,False,197,1676
+Gretchen Schnautz,F,US,United States,CrossFit 8085,26,66 in,145 lb,False,198,1689
+Emelye Dwyer,F,GB,United Kingdom,CrossFit Colchester,32,163 cm,66 kg,False,199,1703
+Ella Wunger,F,SE,Sweden,C23 CrossFit,22,171 cm,63 kg,False,200,1750
+Briana Gaipa,F,US,United States,CrossFit Sweat Shop,35,66 in,145 lb,False,201,1773
+Jevon Thompson,F,US,United States,CrossFit Tustin,32,62 in,127 lb,False,202,1776
+Hollye Henderson,F,US,United States,CrossFit JXN,31,64 in,138 lb,False,203,1779
+Michelle Merand,F,ZA,South Africa,,31,158 cm,60 kg,False,204,1788
+Laura Sanchez,F,VE,Venezuela,CrossFit Tuluka Nuñez,20,159 cm,62 kg,True,205,1790
+Ashley Walden,F,US,United States,CrossFit Blade,28,65 in,135 lb,False,206,1799
+Sarah Massoni,F,BE,Belgium,CrossFit 1815,27,165 cm,67 kg,False,206,1799
+Lisa Eble,F,DE,Germany,CrossFit Jackhammer,29,160 cm,145 lb,True,208,1811
+Hannah Frakes,F,US,United States,CrossFit Cloud City,25,65 in,144 lb,False,209,1820
+Nienke van Overveld,F,NL,Netherlands,CrossFit Vondelgym,26,160 cm,62 kg,True,210,1832
+Callerina Natori,F,US,United States,CrossFit Passion,30,69 in,160 lb,False,211,1833
+Chantal Bouchard,F,CA,Canada,,31,62 in,122 lb,False,212,1835
+Cheyenne Black,F,US,United States,MWB CrossFit,24,63 in,135 lb,False,213,1838
+Thatianne Freitas,F,BR,Brazil,Vittoria CrossFit,26,158 cm,129 lb,False,214,1839
+Mirka Henriksson,F,FI,Finland,Reebok CrossFit Turku,27,165 cm,61 kg,False,215,1854
+Adison Balderston,F,US,United States,Kaw Valley CrossFit,21,61 in,135 lb,False,216,1856
+Jayne Eadie,F,GB,United Kingdom,CrossFit JST,31,170 cm,66 kg,False,217,1858
+Jayne McKay,F,AU,Australia,CrossFit Project Bayside,31,172 cm,67 kg,False,218,1881
+Ella Wilkinson,F,GB,United Kingdom,CrossFit 1878,20,,,False,219,1882
+Savannah Carver,F,US,United States,CrossFit Wild West,30,69 in,160 lb,False,220,1886
+Emiko Naets,F,CH,Switzerland,CrossFit Lavoisier,30,171 cm,,True,221,1888
+Danila Capaccetti,F,IT,Italy,CrossFit Black Shark,36,170 cm,71 kg,False,222,1898
+Nicole Pettel,F,IL,Israel,CrossFit White City,28,63 in,150 lb,True,223,1901
+Anastasiia Vladimirova,F,RU,Russian Federation,CrossFit Tirus,25,169 cm,68 kg,False,224,1903
+Elyse Kile,F,US,United States,Three Kings CrossFit,33,68 in,155 lb,False,225,1939
+Jessica Borg Ghigo,F,MT,Malta,CrossFit Mola di Bari,36,167 cm,70 kg,True,226,1947
+Cheryl Nasso,F,US,United States,CrossFit Tradition,35,64 in,125 lb,False,227,1950
+Filippa Ferm,F,SE,Sweden,CrossFit Fabriken,20,167 cm,60 kg,False,228,1978
+Randel Leahy,F,US,United States,Koda CrossFit,23,,,False,229,1981
+Veera Koskelainen,F,FI,Finland,CrossFit Takomo,29,165 cm,57 kg,False,230,1982
+Rachel Thibodeaux,F,US,United States,JH CrossFit,27,63 in,130 lb,False,231,1998
+Johanna Julia Juliusdottir,F,IS,Iceland,CrossFit XY,24,,124 lb,False,232,2001
+Selina Paupert,F,US,United States,CrossFit Shift,29,67 in,153 lb,False,233,2020
+Alexis Raptis,F,US,United States,Salt Lake City CrossFit,21,65 in,138 lb,False,234,2021
+Carla Frazier,F,US,United States,CrossFit Abilene,32,62 in,140 lb,False,235,2024
+Betsy Simser,F,US,United States,CrossFit Fort Vancouver,31,67 in,135 lb,False,236,2028
+caitlin danyi,F,AU,Australia,,28,170 cm,68 kg,False,237,2030
+April Payne,F,US,United States,CrossFit Rally Point,36,67 in,155 lb,False,238,2034
+Emma Wright,F,NZ,New Zealand,Thorndon CrossFit,28,165 cm,69 kg,False,239,2035
+Vicky Chmura,F,US,United States,CrossFit High Gear,32,63 in,150 lb,False,240,2037
+Keiko Tanaka,F,US,United States,BLFC CrossFit,30,62 in,135 lb,False,240,2037
+Samantha Scorzelli,F,US,United States,Stay Strong CrossFit,31,65 in,150 lb,False,242,2039
+Madison McElhaney,F,US,United States,Paradiso CrossFit Venice,28,,160 lb,False,243,2056
+Deanna Posey,F,CA,Canada,CrossFit Indestri,41,66 in,148 lb,False,243,2056
+Brista Mayfield,F,US,United States,CrossFit TBR,32,62 in,147 lb,False,245,2057
+Brynn Kurlan,F,US,United States,CrossFit Westchester,28,63 in,135 lb,False,246,2062
+Hayley Hunter,F,US,United States,CrossFit Pendleton,24,,,False,247,2068
+Toya Nelson,F,US,United States,MC CrossFit,27,62 in,125 lb,False,248,2075
+Caroline Stanley,F,US,United States,College Hill CrossFit,20,,,False,248,2075
+Thais Nunes,F,BR,Brazil,CrossFit Posto 9,29,155 cm,145 lb,False,250,2095
+Dorothy Morentin,F,US,United States,CrossFit Training Yard,28,64 in,155 lb,False,250,2095
+Ana Martinez,F,MX,Mexico,CrossFit Tigran,26,2 cm,57 kg,False,252,2101
+Thelma Christoforou,F,CY,Cyprus,CrossFit Limassol,33,168 cm,143 lb,True,253,2117
+Carmen Bosmans,F,BE,Belgium,InnerFight CrossFit DXB,31,167 cm,70 kg,False,254,2120
+Emily Townsend,F,AU,Australia,CrossFit Crossaxed,31,159 cm,65 kg,False,255,2145
+Maureen Koegel,F,US,United States,336 CrossFit,31,61 in,135 lb,False,256,2160
+Carrie Ogilvie-Brown,F,GB,United Kingdom,CrossFit CA22,30,157 cm,128 lb,False,257,2176
+Gigi Sabatini,F,US,United States,CrossFit Vertex,16,62 in,115 lb,False,258,2186
+Kaela Zeitler,F,CA,Canada,CrossFit 604,21,65 in,140 lb,False,259,2187
+Valerie Voboril,F,US,United States,CrossFit Rising Wave,41,62 in,138 lb,False,260,2199
+Kasandra Clark,F,US,United States,CrossFit Noble Defender,31,61 in,128 lb,False,261,2211
+Martyna Krysiak,F,PL,Poland,,30,163 cm,60 kg,False,262,2213
+Victoria Frascolla,F,UY,Uruguay,B2 CrossFit,29,162 cm,58 kg,True,263,2235
+Stevie Dellinger,F,US,United States,MoTown CrossFit,30,64 in,150 lb,False,264,2248
+Janelle Shafer,F,US,United States,CrossFit On Track,26,63 in,140 lb,False,265,2261
+Lidia Bartoszewicz,F,DE,Germany,CrossFit Bergisch Gladbach,27,168 cm,63 kg,False,265,2261
+Renee Hoffman,F,AU,Australia,CrossFit Haapu,41,161 cm,58 kg,False,267,2267
+Jacqui Mims,F,US,United States,CrossFit Mayhem,37,,125 lb,False,268,2271
+Belinda Bekker,F,NL,Netherlands,CrossFit Bink 36,32,158 cm,59 kg,False,269,2276
+Jonna Montoya,F,US,United States,South Mountain CrossFit,31,64 in,130 lb,False,270,2277
+Carly Menzies,F,AU,Australia,Injustice CrossFit,32,164 cm,62 kg,False,271,2286
+Kaitlyn Kutz,F,US,United States,CrossFit Embrace,25,68 in,140 lb,False,272,2288
+Kolson Lamb Casey,F,US,United States,CrossFit Passion,28,68 in,150 lb,False,273,2292
+Sofia Michael,F,CY,Cyprus,,24,,,False,274,2294
+Carol Colling-Romero,F,PY,Paraguay,Kingbull CrossFit,27,157 cm,56 kg,True,275,2295
+Ursula Fasel,F,CH,Switzerland,CrossFit Turicum,39,164 cm,62 kg,False,276,2313
+Kelly Friel,F,GB,United Kingdom,CrossFit Southampton,42,170 cm,72 kg,False,277,2317
+Kerri Lee,F,US,United States,Red Stick CrossFit,34,64 in,155 lb,False,278,2320
+Jamie Sobolewski,F,US,United States,CrossFit Thermal,33,68 in,155 lb,False,279,2324
+Allison Ralfs,F,US,United States,CrossFit Derive,27,68 in,165 lb,False,280,2329
+Khristin Allen,F,US,United States,3 Star CrossFit,29,65 in,150 lb,False,281,2333
+Mary Helen Saunders,F,US,United States,CrossFit Huntsville,28,64 in,142 lb,False,282,2364
+Kimberlee DeKrey,F,US,United States,CrossFit Westchase,29,68 in,153 lb,False,283,2365
+Briana Siegert,F,US,United States,CrossFit Kinesis,28,61 in,141 lb,False,284,2368
+Tess Hering,F,AU,Australia,CrossFit NorWest,20,169 cm,67 kg,False,285,2370
+Juliana Gallo,F,CO,Colombia,CrossFit Soul Miami,26,,142 lb,False,285,2370
+Alaina Savage,F,US,United States,CrossFit RVC,27,,,False,287,2384
+Amy Fryt,F,US,United States,CrossFit Reaction,31,62 in,124 lb,False,288,2385
+Ashleigh Corby,F,AU,Australia,CrossFit 2795,30,152 cm,56 kg,False,289,2407
+Katie Price,F,US,United States,Peak 360 CrossFit,27,62 in,124 lb,False,290,2413
+Rachel Schreiber,F,US,United States,CrossFit Noble Defender,27,67 in,140 lb,False,291,2419
+Brittany Bolella,F,US,United States,CrossFit South Brooklyn,31,62 in,130 lb,False,292,2423
+Valentina Magalotti,F,IT,Italy,CrossFit Minus,30,,,False,293,2435
+Rachel Knox,F,GB,United Kingdom,CrossFit BSQ,30,165 cm,68 kg,False,294,2461
+Audra Boyd,F,US,United States,CrossFit Shadyside,34,66 in,148 lb,False,295,2462
+Kelly Clark,F,US,United States,CrossFit Up,33,64 in,145 lb,False,296,2465
+Helena Collins,F,GB,United Kingdom,Jolly Sailor CrossFit,31,171 cm,69 kg,False,297,2475
+Patrícia Dinis,F,PT,Portugal,CrossFit Boarland,34,161 cm,63 kg,False,298,2480
+Lindsey Grasis,F,US,United States,CrossFit 1977,29,67 in,,False,299,2487
+Aimee Tawhai,F,NZ,New Zealand,CrossFit Project Bayside,28,163 cm,63 kg,False,300,2491
+MIchelle Palmer,F,US,United States,Maltese CrossFit,35,69 in,158 lb,False,301,2495
+Angelica Villegas,F,MX,Mexico,CrossFit Mexicali,27,2 cm,65 kg,False,302,2528
+Ganna Almazova,F,UA,Ukraine,CrossFit Banda II,33,165 cm,63 kg,False,303,2539
+Patricie Ježková,F,CZ,Czech Republic,CrossFit Liberec,26,161 cm,64 kg,False,304,2547
+Jessica Core,F,US,United States,CrossFit Fort Vancouver,35,62 in,136 lb,False,305,2566
+Elisa Tiatia,F,US,United States,CrossFit Decimate,27,64 in,145 lb,False,305,2566
+Lindsay Vaughan,F,US,United States,CrossFit Ballina,35,68 in,70 kg,False,307,2568
+Chiara Salandra,F,IT,Italy,CrossFit Torremaggiore,23,165 cm,61 kg,False,308,2571
+Dawon Jung,F,KR,"Korea, Republic of",Reebok CrossFit Maru,25,170 cm,65 kg,True,309,2575
+Jessica Vetter,F,FR,France,,35,173 cm,66 kg,False,310,2577
+Brooke Tuatao,F,NZ,New Zealand,CrossFit East Tamaki,39,,,False,311,2579
+Julia Bayne,F,CA,Canada,CrossFit 6S,28,170 cm,150 lb,False,312,2580
+Jessica Young,F,US,United States,CrossFit Abilene,31,66 in,140 lb,False,313,2585
+Sarina Ruggiero,F,US,United States,CrossFit Distinction,23,63 in,120 lb,False,314,2610
+Aoife Burke,F,IE,Ireland,CrossFit Yas II,29,165 cm,69 kg,False,315,2633
+Tara Jenkins,F,AU,Australia,CrossFit Moorabbin,33,171 cm,69 kg,False,315,2633
+Katrina DiGiacomo,F,US,United States,CrossFit TILT,22,61 in,133 lb,False,317,2635
+Taylor Lawson,F,US,United States,CrossFit Anywhere,28,68 in,145 lb,False,318,2652
+Daria Cieslikiewicz,F,PL,Poland,CrossFit 72D,28,170 cm,63 kg,False,319,2668
+Sarah Scholl,F,US,United States,CrossFit Oceana,38,68 in,145 lb,False,320,2682
+Angelica Bengtsson,F,SE,Sweden,CrossFit Falun,33,168 cm,70 kg,False,321,2684
+Courtney Haley,F,AU,Australia,CrossFit Dux,25,165 cm,69 kg,False,322,2687
+Sara Blunck,F,US,United States,CrossFit Central Houston,40,63 in,136 lb,False,323,2695
+Simona Quintana,F,CL,Chile,,24,167 cm,65 kg,True,324,2704
+Colleen McQuaid,F,CA,Canada,CrossFit Quispamsis,38,66 in,140 lb,False,325,2709
+Hannah Hardy,F,US,United States,CrossFit Westchase Largo,23,64 in,140 lb,False,326,2713
+Devyn Kim,F,US,United States,CrossFit Invictus,18,65 in,140 lb,False,327,2752
+Marina Amosova,F,RU,Russian Federation,CrossFit CLV,31,,,False,328,2759
+Laura Isopoussu,F,FI,Finland,CrossFit 8000,26,,,False,329,2760
+Deanna Gibaldi,F,US,United States,CrossFit Queens,30,66 in,136 lb,False,330,2761
+Eva Cortiella,F,ES,Spain,CrossFit La Nau,37,157 cm,130 lb,False,331,2764
+Carina Simoes,F,PT,Portugal,CrossFit Coimbra,29,157 cm,55 kg,False,332,2769
+Ralitza Koterlitzova,F,BG,Bulgaria,CrossFit Valeo,31,63 in,135 lb,True,333,2772
+Mia Edgar,F,US,United States,Ocean State CrossFit,30,65 in,140 lb,False,334,2775
+Kat Grillo,F,US,United States,CrossFit Oceana,28,61 in,135 lb,False,335,2782
+Lisa Marquette,F,US,United States,Iron Strong CrossFit,39,61 in,120 lb,False,336,2784
+Sabrina Dellagiustina,F,AR,Argentina,,29,,,False,337,2787
+Jordan Christie,F,US,United States,CrossFit Tampa Bay,28,65 in,145 lb,False,338,2794
+Samantha Garihan,F,US,United States,Skyline CrossFit,26,63 in,128 lb,False,339,2800
+Aleisha Berryman,F,NZ,New Zealand,CrossFit Te Rapa,30,165 cm,56 kg,False,340,2808
+Sarah Hobbs,F,US,United States,CrossFit Jaakarhu,27,65 in,130 lb,False,341,2818
+Amelia Mellon,F,US,United States,,29,63 in,140 lb,False,342,2837
+Laurie Clément,F,FR,France,CrossFit Caen,33,,,False,343,2843
+Agustina Haag,F,AR,Argentina,,26,167 cm,65 kg,False,344,2853
+Martine Solheim,F,NO,Norway,CrossFit Nordvest,26,174 cm,69 kg,False,345,2860
+Courtney Fitzharris,F,AU,Australia,CrossFit NorWest,26,160 cm,65 kg,False,346,2870
+Susana Lopez,F,ES,Spain,Area CrossFit,30,162 cm,64 kg,False,347,2876
+Katrina Olson,F,US,United States,Morgan Hill CrossFit,30,64 in,137 lb,False,348,2882
+Hjördís Óskarsdóttir,F,IS,Iceland,CrossFit XY,36,163 cm,135 lb,False,349,2890
+Amber Perron,F,CA,Canada,CrossFit PSC,29,165 cm,153 lb,False,350,2895
+Hilary Barreto,F,US,United States,CrossFit Lifted,28,63 in,135 lb,False,351,2901
+Erika Theisen,F,US,United States,12 Labours CrossFit,30,64 in,145 lb,False,352,2916
+Amanda Norton,F,US,United States,CrossFit Marin,34,68 in,149 lb,False,353,2919
+Amy Alessi,F,AU,Australia,CrossFit Kirrawee,29,154 cm,130 lb,False,354,2920
+Adara Griffin,F,US,United States,CrossFit OC3,26,62 in,135 lb,False,355,2930
+Mia Furu,F,DK,Denmark,CrossFit Nordvest,26,161 cm,57 kg,False,356,2938
+Paula Zikowsky,F,AT,Austria,COI CrossFit,24,,,False,357,2943
+Samantha Drescher,F,AU,Australia,CrossFit Darwin,28,183 cm,165 lb,False,358,2947
+Abbey Sloulin,F,US,United States,Yuba City CrossFit,38,70 in,148 lb,False,358,2947
+Mikki Nuccio,F,US,United States,CrossFit Maven,30,64 in,148 lb,False,360,2952
+Ashley Shepherd,F,US,United States,CrossFit Noble Defender,32,64 in,145 lb,False,361,2955
+Sara Woodhouse,F,US,United States,Hermes CrossFit,26,,,False,362,2957
+Kelly Abney,F,US,United States,Eternity CrossFit,37,,,False,363,2959
+Ashleigh Fleser,F,US,United States,Ocean State CrossFit,35,67 in,151 lb,False,364,2974
+Lucy Campbell,F,GB,United Kingdom,CrossFit BFG,24,,,False,365,2983
+Maria Astashova,F,RU,Russian Federation,CrossFit Cosmos,25,171 cm,63 kg,False,366,3002
+Melissa Jamerino,F,US,United States,Kauai CrossFit,35,64 in,127 lb,False,367,3010
+Megan Markee,F,US,United States,Alpine CrossFit,32,62 in,125 lb,False,368,3013
+Andrea Rodriguez,F,EC,Ecuador,Lycan CrossFit,34,165 cm,165 lb,True,369,3018
+Janet Black,F,US,United States,CrossFit Trison,46,64 in,147 lb,False,370,3039
+Maicey McIlveen,F,US,United States,CrossFit Smithtown,26,63 in,126 lb,False,371,3040
+Victoria Hernandez,F,US,United States,The Claw CrossFit,22,60 in,128 lb,False,372,3041
+Emily DeFeo,F,US,United States,,23,64 in,145 lb,False,373,3050
+Jay-Lee Mansy,F,NZ,New Zealand,CrossFit Urban Energy,32,,,False,373,3050
+Michella Huban,F,DK,Denmark,CrossFit Butcher's Lab,27,166 cm,63 kg,False,375,3056
+Hester Lowe,F,US,United States,CrossFit 178,29,,,False,376,3062
+Oana Catalina Chelmus,F,RO,Romania,CrossFit 548,33,160 cm,58 kg,False,377,3065
+Erica Ekelund,F,SE,Sweden,CrossFit Highway,23,,,False,378,3081
+Janie Garratt,F,GB,United Kingdom,CrossFit FML,27,158 cm,63 kg,False,379,3082
+Shannon Zimmerman,F,US,United States,CrossFit Broad Ripple,35,65 in,147 lb,False,380,3106
+Marie Jensen,F,SE,Sweden,CrossFit Lund,35,172 cm,73 kg,False,380,3106
+Laura Salas,F,AR,Argentina,BoxPro CrossFit,35,160 cm,62 kg,False,382,3120
+Judit Torrabadella Boixaderas,F,ES,Spain,Room 5 CrossFit,31,165 cm,63 kg,False,383,3132
+Victoria Caruso,F,US,United States,CrossFit Roseland,29,66 in,160 lb,False,384,3137
+Madison Tatt,F,AU,Australia,Reebok CrossFit Frankston,25,167 cm,67 kg,False,385,3138
+Célia Gabbiani,F,FR,France,CrossFit More,30,156 cm,57 kg,False,386,3147
+Kaela Pitts,F,US,United States,CrossFit 585,40,66 in,170 lb,False,386,3147
+Matilda Spanou,F,GR,Greece,Mad Hall CrossFit,26,,,True,388,3153
+Courtney Sims,F,US,United States,CrossFit KMK,32,67 in,165 lb,False,389,3157
+Lauren Gravatt,F,US,United States,Deuce CrossFit,34,66 in,145 lb,False,390,3159
+Nataly Egorova,F,RU,Russian Federation,Red Tower CrossFit,31,161 cm,67 kg,False,391,3166
+Stephanie Rodriguez-Cadiz,F,US,United States,Rhapsody CrossFit,30,,145 lb,False,392,3169
+Dina Swift,F,ZA,South Africa,CrossFit Tijger Valley,31,178 cm,80 kg,False,393,3173
+Sheena Hammer,F,US,United States,Ben Lomond CrossFit,36,61 in,118 lb,False,394,3181
+Madie Edwards,F,US,United States,CrossFit C2F,26,66 in,155 lb,False,395,3183
+Elisa Schauer,F,US,United States,CrossFit Omnia,29,67 in,138 lb,False,396,3186
+Sofia Arrue Bermeo,F,PE,Peru,Altair CrossFit,32,167 cm,145 lb,True,397,3196
+Meg Garrett,F,CA,Canada,CrossFit Crosscheck,37,174 cm,155 lb,False,398,3198
+Karen McCadam,F,US,United States,CrossFit Viento,45,66 in,147 lb,False,399,3213
+Isabelle Gosling,F,FR,France,HA CrossFit,25,160 cm,65 kg,False,400,3231
+Meg Walters,F,US,United States,CrossFit St Louis Park,28,64 in,145 lb,False,401,3239
+Christine Tensley,F,US,United States,Flower City CrossFit,45,65 in,142 lb,False,402,3251
+Desiree Rogers,F,US,United States,Gold Standard Athletics CrossFit,29,66 in,150 lb,False,403,3254
+Elin Rova,F,SE,Sweden,CrossFit Wanderlust,28,,66 lb,False,404,3258
+Megin Shepherd,F,US,United States,,27,62 in,150 lb,False,405,3295
+Dani Davis,F,US,United States,BRS CrossFit,27,,,False,406,3313
+Amanda Cummins,F,IE,Ireland,CrossFit DSC,38,,,False,407,3322
+Rachel Cesa,F,US,United States,CrossFit Tustin,37,66 in,140 lb,False,407,3322
+Giulia Roggio,F,IT,Italy,CrossFit 548,40,163 cm,54 kg,False,409,3339
+Katie Cain,F,US,United States,CrossFit Hard Knox,31,64 in,142 lb,False,410,3354
+Katelynn Sanders,F,US,United States,CrossFit Fort Atkinson,27,67 in,150 lb,False,411,3360
+Danielle Senior,F,AU,Australia,CrossFit Mode,32,167 cm,65 kg,False,412,3362
+Maria Camila Quintero,F,CO,Colombia,Faster CrossFit,24,155 cm,58 kg,False,413,3367
+Nicole Holcomb,F,US,United States,CrossFit Conjugate,33,67 in,150 lb,False,414,3377
+Natalie Jennings,F,US,United States,Coast Range CrossFit,30,64 in,140 lb,False,415,3381
+Chelsea Espe,F,US,United States,Southern Pines CrossFit,28,67 in,150 lb,False,416,3397
+Paulina Haro,F,MX,Mexico,,16,156 cm,63 kg,False,417,3400
+Carolina Long,F,BR,Brazil,CrossFit BH Mangabeiras,26,,,False,418,3406
+Marie Hirsch,F,US,United States,CrossFit Chalk,30,64 in,150 lb,False,419,3418
+Michelle Suozzi,F,US,United States,CrossFit Majestic,43,64 in,155 lb,False,420,3439
+Helen Nutter,F,GB,United Kingdom,Second City CrossFit,27,164 cm,71 kg,False,421,3442
+Laura Valdenaire,F,FR,France,Old Gym CrossFit,23,,,False,422,3444
+Linda Keesman,F,NL,Netherlands,CrossFit Vondelgym,26,173 cm,70 kg,False,423,3469
+Madeline Senkosky,F,US,United States,CrossFit Harpoon,34,63 in,145 lb,False,424,3477
+Aimee Cringle,F,GB,United Kingdom,CrossFit IOM,21,170 cm,65 kg,False,425,3479
+Mariska Smit,F,ZA,South Africa,CrossFit Eikestad,27,,,False,426,3491
+Samantha Jones,F,AU,Australia,CrossFit Mulgrave,25,161 cm,60 kg,False,427,3496
+Or Cohen,F,IL,Israel,CrossFit Haifa,30,157 cm,60 kg,False,428,3497
+Jessyca Nadeau,F,CA,Canada,CrossFit Zero-8,27,,146 lb,False,429,3506
+Kristen Word,F,US,United States,Lone Star CrossFit,32,66 in,135 lb,False,430,3508
+Mayra Brandt,F,US,United States,CrossFit Delray Beach,40,67 in,155 lb,False,431,3513
+Mallory Berger,F,US,United States,CrossFit Loft,35,62 in,140 lb,False,432,3522
+Alice Mille,F,SE,Sweden,CrossFit Walleye,26,174 cm,69 kg,False,433,3525
+Laura Nielsen,F,US,United States,CrossFit Stimulus,42,63 in,145 lb,False,434,3528
+Amanda Dias,F,BR,Brazil,CrossFit Crown III,26,155 cm,58 kg,False,435,3532
+Kristen Munoz,F,US,United States,CrossFit Athletic Academy,27,64 in,140 lb,False,436,3560
+Anna Rode,F,US,United States,CrossFit Naptown,27,64 in,150 lb,False,437,3572
+Jeanette Garcia,F,US,United States,CrossFit San Luis Obispo,27,67 in,170 lb,False,438,3589
+Whitney Davis,F,US,United States,Starkville CrossFit,36,66 in,150 lb,False,439,3592
+Jennifer Miata Schult,F,US,United States,CrossFit Pineville,35,63 in,145 lb,False,440,3594
+Heather Hodson,F,US,United States,CrossFit Anywhere,32,64 in,145 lb,False,441,3608
+Jade Williams,F,AU,Australia,Steel Coast CrossFit,29,,,False,441,3608
+Jenna Simanovsky,F,US,United States,CrossFit Hamilton,27,64 in,150 lb,False,443,3615
+Lois Smith,F,GB,United Kingdom,CrossFit Humber,28,173 cm,72 kg,False,444,3629
+Belena Roveri,F,AR,Argentina,,28,172 cm,73 kg,False,445,3631
+Hannah Pruitt,F,US,United States,CrossFit LTF,31,63 in,135 lb,False,446,3647
+Zoe Ades,F,US,United States,CrossFit North Gate,30,68 in,150 lb,False,447,3655
+Julia Kamide,F,US,United States,Smokey Hollow CrossFit,23,,,False,448,3656
+Janette Hynes,F,US,United States,Man O' War CrossFit,22,66 in,63 kg,False,449,3664
+Kelli Vossler,F,US,United States,Andover CrossFit,35,68 in,155 lb,False,450,3669
+Cristian Mathes,F,US,United States,Red Stick CrossFit,24,63 in,140 lb,False,451,3672
+Jane Bjørn,F,DK,Denmark,CrossFit Butcher's Lab,28,162 cm,61 kg,False,452,3674
+Lu Frey,F,DE,Germany,CrossFit Wanderlust,21,164 cm,62 kg,False,453,3675
+Isabel Orozco,F,CO,Colombia,,30,,127 lb,False,454,3676
+Samantha Petrich,F,US,United States,Pueblo CrossFit Home of Heroes,30,,145 lb,False,455,3698
+Hattie Kanyo,F,CA,Canada,CrossFit Lethbridge,28,64 in,145 lb,False,456,3700
+Haley York,F,US,United States,CrossFit ASAP H St,25,65 in,155 lb,False,457,3702
+Erin Bonett,F,GB,United Kingdom,CrossFit IOM,31,170 cm,138 lb,False,458,3709
+Lisa Skogeng,F,NO,Norway,InnerLimit CrossFit,24,174 cm,72 kg,False,459,3712
+Delfina Ortuño,F,AR,Argentina,Codigo CrossFit,28,,136 lb,False,460,3713
+Claire Treanor,F,US,United States,CrossFit Blade,34,65 in,155 lb,False,461,3718
+Tiana Fahey-Leigh,F,AU,Australia,,33,157 cm,62 kg,False,462,3726
+Adriana Valeska,F,BR,Brazil,CrossFit Sorocaba,24,,,False,463,3728
+Catherine Degagne,F,CA,Canada,CrossFit Vaudreuil,31,164 cm,131 lb,False,464,3732
+Noortje Bleeker,F,NL,Netherlands,CrossFit Westenwind,23,172 cm,68 kg,False,465,3746
+Gabrielle Ocker,F,US,United States,Solidarity CrossFit,25,65 in,147 lb,False,466,3757
+Briony Challis,F,AU,Australia,CrossFit Escape,20,,58 kg,False,466,3757
+Abigail Davila,F,MX,Mexico,,28,168 cm,140 lb,False,468,3777
+Zoe Jones,F,US,United States,CrossFit Triple River,23,68 in,145 lb,False,469,3782
+Simone Arthur,F,AU,Australia,CrossFit 4165,26,159 cm,64 kg,False,470,3800
+Jenna Larson,F,US,United States,Codite CrossFit,41,65 in,145 lb,False,470,3800
+Analisa Marquez,F,US,United States,BLFC CrossFit,31,66 in,150 lb,False,472,3809
+Chelsea Docherty,F,AU,Australia,HA CrossFit,32,161 cm,63 kg,False,473,3817
+Allison DeRoma,F,US,United States,CrossFit Passion,33,65 in,149 lb,False,474,3822
+Megan Apostoleris,F,CA,Canada,CrossFit 1855,38,173 cm,69 kg,False,475,3824
+Jessica Aelvoet,F,US,United States,Lone Star CrossFit,38,63 in,136 lb,False,476,3828
+Danielle Kearns,F,US,United States,CrossFit Oyster Point,26,67 in,172 lb,False,477,3842
+Nicole Heer,F,CH,Switzerland,CrossFit Pilatus,28,170 cm,64 kg,False,478,3844
+Camila Lopez,F,CO,Colombia,,29,165 cm,140 lb,False,479,3851
+Katelyn Teager,F,US,United States,CrossFit Papio,30,67 in,148 lb,False,480,3854
+Lene Karoline Ejlersen,F,DK,Denmark,CrossFit Onshore,27,165 cm,65 kg,False,481,3863
+Bia Clemente,F,BR,Brazil,PAM CrossFit,17,162 cm,63 kg,False,482,3872
+Kseniia Trubetskaia,F,RU,Russian Federation,Backstage CrossFit,32,172 cm,69 kg,False,483,3873
+Renee-Claude Rioux,F,CA,Canada,CrossFit FYP,33,160 cm,130 lb,False,484,3874
+Ellie Turner,F,AU,Australia,Forge CrossFit,22,165 cm,,False,485,3877
+Casey Higgins,F,US,United States,CrossFit Reston,25,65 in,148 lb,False,486,3886
+Majesta Valentine,F,US,United States,Frontline CrossFit,24,64 in,132 lb,False,487,3890
+Katie Pretswell,F,NZ,New Zealand,CrossFit Kotahi,27,175 cm,72 kg,False,488,3901
+Taylor Loyd,F,US,United States,,31,69 in,165 lb,False,489,3904
+Amanda Lindeberg Mathiasen,F,DK,Denmark,CrossFit Butcher's Lab,30,166 cm,132 lb,False,490,3905
+Mairead Fogarty,F,US,United States,CrossFit OSA,28,67 in,156 lb,False,491,3912
+Becca Sinchok,F,US,United States,CrossFit Saol,28,60 in,130 lb,False,492,3917
+Iina von Gruenewaldt,F,FI,Finland,CrossFit Basement,24,,,False,493,3920
+Jordan Noe,F,US,United States,TBE CrossFit,25,62 in,124 lb,False,494,3926
+Dionne Gutierrez,F,US,United States,CrossFit Tustin,37,67 in,170 lb,False,495,3945
+Anna Hulda Olafsdottir,F,IS,Iceland,CrossFit Reykjavík,35,165 cm,60 kg,False,496,3964
+Belinda Heber,F,AT,Austria,Train Blue CrossFit,28,158 cm,64 kg,False,497,3971
+Diana Schnee,F,US,United States,Crooked River CrossFit,31,63 in,135 lb,False,498,3978
+Heather Gammel,F,US,United States,BackCountry CrossFit,37,60 in,130 lb,False,499,4010
+Marina Fedenko,F,UA,Ukraine,,28,165 cm,72 kg,False,500,4015

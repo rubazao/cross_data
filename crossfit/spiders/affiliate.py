@@ -38,7 +38,7 @@ class AffiliateSpider(scrapy.Spider):
                 }
             except:
                 pass
-                print("No more pages to scrape.")
+                
 
         # Give access to next pages of the JSON / API file
         current_page = response.request.meta['current_page'] + 1
